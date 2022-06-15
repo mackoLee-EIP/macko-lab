@@ -11,7 +11,7 @@ echo $MACKO_LAB_VERSION
 docker \
 run \
 -d \
--p 3333:8080 \
+-p 3000:8080 \
 -v /app/node_modules \
 -v `pwd`:/app \
 --name macko-lab \
