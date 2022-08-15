@@ -1,5 +1,0 @@
-#!/bin/sh
-
-MACKO_LAB_VERSION=0.0.1
-
-echo $MACKO_LAB_VERSION
